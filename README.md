@@ -7,7 +7,7 @@ Data-intensive scalable computing (DISC) systems such as Google’s MapReduce, A
 This project is developed by Professor [Miryung Kim](http://web.cs.ucla.edu/~miryung/)'s Software Engineering and Analysis Laboratory at UCLA. 
 If you encounter any problems, please open an issue or feel free to contact us:
 
-[Muhammad Ali Gulzar](https://people.cs.vt.edu/~gulzar/): PhD student, now Assistant Professor at Virginia Tech, @cs.ucla.edu;
+[Muhammad Ali Gulzar](https://people.cs.vt.edu/~gulzar/): PhD student, now Assistant Professor at Virginia Tech, gulzar@cs.vt.edu;
 
 [Shaghayegh Mardani](https://github.com/ShaghayeghMrdn): PhD student;
 
