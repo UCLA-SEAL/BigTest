@@ -17,6 +17,7 @@ If you encounter any problems, please open an issue or feel free to contact us:
 
 ## How to cite 
 Please refer to our FSE'19 paper, [White-box testing of big data analytics with complex user-defined functions](http://web.cs.ucla.edu/~miryung/Publications/fse2019-bigtest.pdf) for more details. 
+
 ### Bibtex  
 @inproceedings{10.1145/3338906.3338953,
 author = {Gulzar, Muhammad Ali and Mardani, Shaghayegh and Musuvathi, Madanlal and Kim, Miryung},
@@ -36,6 +37,9 @@ series = {ESEC/FSE 2019}
 }
 
 [DOI Link](https://doi.org/10.1145/3338906.3338953)
+
+### Video 
+You can find our demonstration video [here](https://doi.org/10.1145/3338906.3338953)
 
 ### Directory Structure:
 * **BenchmarkFault** --> Contains the source code of both origianl and faulty benchmark programs
