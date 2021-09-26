@@ -11,7 +11,7 @@ If you encounter any problems, please open an issue or feel free to contact us:
 
 [Shaghayegh Mardani](https://github.com/ShaghayeghMrdn): PhD student;
 
-[Madan Musuvathi](https://www.microsoft.com/en-us/research/people/madanm/): Partner Research Manager;  
+[Madan Musuvathi](https://www.microsoft.com/en-us/research/people/madanm/): Partner Research Manager at Microsoft Research  
 
 [Miryung Kim](http://web.cs.ucla.edu/~miryung/): Professor at UCLA, miryung@cs.ucla.edu;
 
